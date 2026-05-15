@@ -38,7 +38,7 @@ Jinja2==3.1.4
 keras==2.8.0
 Keras-Preprocessing==1.1.2
 libclang==18.1.1
-lxml==5.2.2
+lxml==6.1.0
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
